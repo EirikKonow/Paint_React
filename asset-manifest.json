@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Paint_React/static/css/main.30af882f.chunk.css",
+    "main.js": "/Paint_React/static/js/main.974526ee.chunk.js",
+    "main.js.map": "/Paint_React/static/js/main.974526ee.chunk.js.map",
+    "runtime-main.js": "/Paint_React/static/js/runtime-main.fc540041.js",
+    "runtime-main.js.map": "/Paint_React/static/js/runtime-main.fc540041.js.map",
+    "static/css/2.86a66e1b.chunk.css": "/Paint_React/static/css/2.86a66e1b.chunk.css",
+    "static/js/2.68556a34.chunk.js": "/Paint_React/static/js/2.68556a34.chunk.js",
+    "static/js/2.68556a34.chunk.js.map": "/Paint_React/static/js/2.68556a34.chunk.js.map",
+    "static/js/3.a99f9eb9.chunk.js": "/Paint_React/static/js/3.a99f9eb9.chunk.js",
+    "static/js/3.a99f9eb9.chunk.js.map": "/Paint_React/static/js/3.a99f9eb9.chunk.js.map",
+    "index.html": "/Paint_React/index.html",
+    "static/css/2.86a66e1b.chunk.css.map": "/Paint_React/static/css/2.86a66e1b.chunk.css.map",
+    "static/css/main.30af882f.chunk.css.map": "/Paint_React/static/css/main.30af882f.chunk.css.map",
+    "static/js/2.68556a34.chunk.js.LICENSE.txt": "/Paint_React/static/js/2.68556a34.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Paint_React/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc540041.js",
+    "static/css/2.86a66e1b.chunk.css",
+    "static/js/2.68556a34.chunk.js",
+    "static/css/main.30af882f.chunk.css",
+    "static/js/main.974526ee.chunk.js"
+  ]
+}
